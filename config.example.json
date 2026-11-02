@@ -1,0 +1,5 @@
+{
+  "apiBaseUrl": "https://dayz-life-tracker-api.onrender.com",
+  "webBaseUrl": "https://dayz-life-tracker-api.onrender.com",
+  "serverCredential": "dzlt_live_your_real_issued_credential_here"
+}
